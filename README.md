@@ -1,4 +1,4 @@
-# VectorSearchusing LangChain and PG Vector
+# VectorSearch using LangChain and PG Vector
 
 Retrieval Augmented Generation (RAG) represents a cutting-edge approach that integrates retrieval mechanisms with natural language generation, enhancing the quality and relevance of generated content. This project leverages langchains and PG vectors to implement a simple system.
 
