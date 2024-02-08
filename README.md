@@ -1,6 +1,6 @@
-# Retrieval Augmented Generation using Language Chains and PG Vector
+# VectorSearchusing LangChain and PG Vector
 
-Retrieval Augmented Generation (RAG) represents a cutting-edge approach that integrates retrieval mechanisms with natural language generation, enhancing the quality and relevance of generated content. This project leverages language chains and PG vectors to implement a robust RAG system.
+Retrieval Augmented Generation (RAG) represents a cutting-edge approach that integrates retrieval mechanisms with natural language generation, enhancing the quality and relevance of generated content. This project leverages langchains and PG vectors to implement a simple system.
 
  The system loads PDF documents, splits them into semantic chunks, computes embeddings using OpenAI's embeddings, and stores them in a PostgreSQL database using PG vectors. It then performs similarity searches and max marginal relevance searches based on user queries.
 
